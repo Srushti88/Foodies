@@ -1,0 +1,3034 @@
+[{
+        "product_id": "FF001",
+        "name": "FreshFusionPizza Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "lettuce",
+            "coffee",
+            "onion rings",
+            "ice cream",
+            "kimchi"
+        ],
+        "price": 18.3,
+        "calories": 299,
+        "prep_time": "5-25 mins",
+        "dietary_tags": [
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 69,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a freshfusionpizza limited time special"
+    },
+    {
+        "product_id": "FF002",
+        "name": "SweetSavoryPizza Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "tomato",
+            "ice cream",
+            "vanilla",
+            "almond milk"
+        ],
+        "price": 13.57,
+        "calories": 572,
+        "prep_time": "12-25 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [],
+        "popularity_score": 95,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "image of a sweetsavorypizza pizz"
+    },
+    {
+        "product_id": "FF003",
+        "name": "FreshPizzaTaco Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "onion rings",
+            "almond milk",
+            "cheese"
+        ],
+        "price": 8.0,
+        "calories": 217,
+        "prep_time": "6-26 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "eggs",
+            "soy"
+        ],
+        "popularity_score": 81,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 5,
+        "image_prompt": "image of a freshpizzataco dessert"
+    },
+    {
+        "product_id": "FF004",
+        "name": "PizzaCrispyDragon Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "chicken breast",
+            "onion rings",
+            "black beans"
+        ],
+        "price": 19.4,
+        "calories": 735,
+        "prep_time": "12-30 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [],
+        "popularity_score": 75,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a pizzacrispydragon salads & healthy option"
+    },
+    {
+        "product_id": "FF005",
+        "name": "DragonFusionClassic Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "tortilla",
+            "potato fries",
+            "gochujang sauce"
+        ],
+        "price": 17.48,
+        "calories": 777,
+        "prep_time": "5-20 mins",
+        "dietary_tags": [
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "soy"
+        ],
+        "popularity_score": 69,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a dragonfusionclassic salads & healthy option"
+    },
+    {
+        "product_id": "FF006",
+        "name": "SavoryBurgerTaco Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "beef patty",
+            "tomato",
+            "ice cream"
+        ],
+        "price": 14.65,
+        "calories": 297,
+        "prep_time": "13-27 mins",
+        "dietary_tags": [
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 89,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "image of a savoryburgertaco limited time special"
+    },
+    {
+        "product_id": "FF007",
+        "name": "FreshDragonClassic Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "brioche bun",
+            "vanilla",
+            "jalapenos",
+            "onion rings",
+            "kimchi",
+            "cheese"
+        ],
+        "price": 17.32,
+        "calories": 749,
+        "prep_time": "9-29 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "soy"
+        ],
+        "popularity_score": 99,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a freshdragonclassic dessert"
+    },
+    {
+        "product_id": "FF008",
+        "name": "SavoryDragonCrispy Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "jalapenos",
+            "ice cream",
+            "kimchi"
+        ],
+        "price": 11.64,
+        "calories": 264,
+        "prep_time": "9-29 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a savorydragoncrispy burger"
+    },
+    {
+        "product_id": "FF009",
+        "name": "SpicyDragonSweet Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "almond milk",
+            "beef patty",
+            "tortilla",
+            "potato fries",
+            "jalapenos"
+        ],
+        "price": 9.81,
+        "calories": 686,
+        "prep_time": "8-16 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [
+            "gluten"
+        ],
+        "popularity_score": 63,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 5,
+        "image_prompt": "image of a spicydragonsweet salads & healthy option"
+    },
+    {
+        "product_id": "FF010",
+        "name": "ClassicDragonTaco Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "cheese",
+            "potato fries"
+        ],
+        "price": 15.16,
+        "calories": 566,
+        "prep_time": "7-30 mins",
+        "dietary_tags": [
+            "vegan",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 82,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a classicdragontaco salads & healthy option"
+    },
+    {
+        "product_id": "FF011",
+        "name": "PizzaCrispySavory Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "kimchi",
+            "beef patty",
+            "lettuce",
+            "tomato",
+            "jalapenos"
+        ],
+        "price": 12.52,
+        "calories": 742,
+        "prep_time": "8-19 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "shellfish",
+            "nuts"
+        ],
+        "popularity_score": 59,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "image of a pizzacrispysavory salads & healthy option"
+    },
+    {
+        "product_id": "FF012",
+        "name": "PizzaDragonClassic Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "black beans",
+            "almond milk",
+            "chicken breast",
+            "onion rings"
+        ],
+        "price": 11.76,
+        "calories": 491,
+        "prep_time": "14-29 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 84,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a pizzadragonclassic dessert"
+    },
+    {
+        "product_id": "FF013",
+        "name": "BurgerPizzaDragon Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "almond milk",
+            "tomato",
+            "vanilla",
+            "chicken breast",
+            "ice cream",
+            "jalapenos"
+        ],
+        "price": 18.14,
+        "calories": 445,
+        "prep_time": "7-20 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 52,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a burgerpizzadragon dessert"
+    },
+    {
+        "product_id": "FF014",
+        "name": "PizzaDragonCrispy Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "brioche bun",
+            "black beans",
+            "lettuce",
+            "tomato",
+            "kimchi"
+        ],
+        "price": 15.67,
+        "calories": 749,
+        "prep_time": "12-21 mins",
+        "dietary_tags": [
+            "spicy"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [],
+        "popularity_score": 70,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a pizzadragoncrispy burger"
+    },
+    {
+        "product_id": "FF015",
+        "name": "TacoFreshCrispy Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "coffee",
+            "tortilla",
+            "caramel sauce",
+            "brioche bun",
+            "ice cream"
+        ],
+        "price": 19.2,
+        "calories": 325,
+        "prep_time": "14-17 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [
+            "gluten"
+        ],
+        "popularity_score": 60,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "image of a tacofreshcrispy beverage"
+    },
+    {
+        "product_id": "FF016",
+        "name": "SweetBurgerFusion Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "brioche bun",
+            "chicken breast",
+            "chocolate chips",
+            "jalapenos",
+            "black beans"
+        ],
+        "price": 18.39,
+        "calories": 839,
+        "prep_time": "13-22 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "eggs"
+        ],
+        "popularity_score": 76,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "image of a sweetburgerfusion fried chicke"
+    },
+    {
+        "product_id": "FF017",
+        "name": "PizzaCrispySpicy Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tomato",
+            "tortilla",
+            "brioche bun"
+        ],
+        "price": 11.35,
+        "calories": 217,
+        "prep_time": "11-17 mins",
+        "dietary_tags": [
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 64,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a pizzacrispyspicy burger"
+    },
+    {
+        "product_id": "FF018",
+        "name": "SweetSavoryBurger Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "brioche bun",
+            "gochujang sauce",
+            "chocolate chips",
+            "chicken breast",
+            "lettuce"
+        ],
+        "price": 15.78,
+        "calories": 669,
+        "prep_time": "15-19 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 65,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a sweetsavoryburger burger"
+    },
+    {
+        "product_id": "FF019",
+        "name": "FusionSavoryBurger Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "kimchi",
+            "cheese"
+        ],
+        "price": 19.14,
+        "calories": 697,
+        "prep_time": "13-15 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 69,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "image of a fusionsavoryburger limited time special"
+    },
+    {
+        "product_id": "FF020",
+        "name": "BurgerTacoSweet Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "coffee",
+            "jalapenos",
+            "black beans",
+            "lettuce",
+            "brioche bun"
+        ],
+        "price": 9.78,
+        "calories": 401,
+        "prep_time": "5-15 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 78,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "image of a burgertacosweet dessert"
+    },
+    {
+        "product_id": "FF021",
+        "name": "DragonPizzaSpicy Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "gochujang sauce",
+            "vanilla",
+            "beef patty"
+        ],
+        "price": 5.53,
+        "calories": 315,
+        "prep_time": "12-26 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a dragonpizzaspicy tacos & wrap"
+    },
+    {
+        "product_id": "FF022",
+        "name": "CrispyBurgerSavory Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "onion rings",
+            "potato fries",
+            "almond milk",
+            "tomato"
+        ],
+        "price": 7.65,
+        "calories": 524,
+        "prep_time": "5-24 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a crispyburgersavory sides & appetizer"
+    },
+    {
+        "product_id": "FF023",
+        "name": "SweetPizzaFresh Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "brioche bun",
+            "potato fries",
+            "onion rings",
+            "vanilla",
+            "coffee"
+        ],
+        "price": 18.29,
+        "calories": 459,
+        "prep_time": "14-27 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "eggs"
+        ],
+        "popularity_score": 70,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "image of a sweetpizzafresh dessert"
+    },
+    {
+        "product_id": "FF024",
+        "name": "SpicyPizzaTaco Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "kimchi",
+            "beef patty",
+            "black beans",
+            "tortilla",
+            "jalapenos",
+            "tomato"
+        ],
+        "price": 15.61,
+        "calories": 571,
+        "prep_time": "6-17 mins",
+        "dietary_tags": [
+            "gluten_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "classic",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 60,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "image of a spicypizzataco dessert"
+    },
+    {
+        "product_id": "FF025",
+        "name": "FusionFreshDragon Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "chocolate chips",
+            "onion rings",
+            "lettuce",
+            "ice cream"
+        ],
+        "price": 15.8,
+        "calories": 880,
+        "prep_time": "14-29 mins",
+        "dietary_tags": [
+            "gluten_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 98,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a fusionfreshdragon burger"
+    },
+    {
+        "product_id": "FF026",
+        "name": "CrispyFreshFusion Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "chicken breast",
+            "onion rings",
+            "jalapenos",
+            "cheese",
+            "kimchi"
+        ],
+        "price": 15.8,
+        "calories": 232,
+        "prep_time": "8-23 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "classic"
+        ],
+        "allergens": [],
+        "popularity_score": 60,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a crispyfreshfusion fried chicke"
+    },
+    {
+        "product_id": "FF027",
+        "name": "SavoryTacoDragon Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "onion rings",
+            "kimchi",
+            "caramel sauce"
+        ],
+        "price": 9.8,
+        "calories": 533,
+        "prep_time": "7-29 mins",
+        "dietary_tags": [
+            "gluten_free",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 61,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 5,
+        "image_prompt": "image of a savorytacodragon dessert"
+    },
+    {
+        "product_id": "FF028",
+        "name": "FusionSweetSpicy Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "onion rings",
+            "potato fries",
+            "black beans",
+            "brioche bun",
+            "almond milk",
+            "lettuce"
+        ],
+        "price": 9.37,
+        "calories": 574,
+        "prep_time": "6-28 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "popularity_score": 69,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a fusionsweetspicy breakfast item"
+    },
+    {
+        "product_id": "FF029",
+        "name": "FusionPizzaSavory Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "tortilla",
+            "lettuce",
+            "coffee"
+        ],
+        "price": 7.02,
+        "calories": 848,
+        "prep_time": "5-30 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "soy"
+        ],
+        "popularity_score": 52,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "image of a fusionpizzasavory beverage"
+    },
+    {
+        "product_id": "FF030",
+        "name": "SweetSpicySavory Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "tomato",
+            "potato fries",
+            "jalapenos",
+            "chocolate chips",
+            "onion rings"
+        ],
+        "price": 15.93,
+        "calories": 565,
+        "prep_time": "14-17 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 94,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a sweetspicysavory breakfast item"
+    },
+    {
+        "product_id": "FF031",
+        "name": "SpicyDragonCrispy Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "brioche bun",
+            "tortilla",
+            "potato fries",
+            "lettuce",
+            "caramel sauce"
+        ],
+        "price": 8.88,
+        "calories": 668,
+        "prep_time": "12-17 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "classic",
+            "adventurous"
+        ],
+        "allergens": [
+            "gluten",
+            "eggs"
+        ],
+        "popularity_score": 82,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "image of a spicydragoncrispy dessert"
+    },
+    {
+        "product_id": "FF032",
+        "name": "SavoryDragonSpicy Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "gochujang sauce",
+            "tomato",
+            "black beans"
+        ],
+        "price": 15.41,
+        "calories": 404,
+        "prep_time": "14-20 mins",
+        "dietary_tags": [
+            "vegan",
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "classic"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 51,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "image of a savorydragonspicy dessert"
+    },
+    {
+        "product_id": "FF033",
+        "name": "CrispyPizzaTaco Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "cheese",
+            "vanilla"
+        ],
+        "price": 8.85,
+        "calories": 454,
+        "prep_time": "7-26 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 80,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "image of a crispypizzataco limited time special"
+    },
+    {
+        "product_id": "FF034",
+        "name": "PizzaBurgerDragon Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "kimchi",
+            "gochujang sauce",
+            "chicken breast",
+            "tortilla",
+            "lettuce"
+        ],
+        "price": 13.38,
+        "calories": 508,
+        "prep_time": "14-19 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [
+            "shellfish",
+            "dairy"
+        ],
+        "popularity_score": 76,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "image of a pizzaburgerdragon fried chicke"
+    },
+    {
+        "product_id": "FF035",
+        "name": "FreshClassicDragon Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "brioche bun",
+            "beef patty",
+            "black beans",
+            "jalapenos",
+            "tomato",
+            "lettuce"
+        ],
+        "price": 13.91,
+        "calories": 417,
+        "prep_time": "11-29 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 62,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "image of a freshclassicdragon dessert"
+    },
+    {
+        "product_id": "FF036",
+        "name": "DragonCrispyFresh Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "almond milk",
+            "potato fries",
+            "black beans",
+            "kimchi",
+            "tomato",
+            "chocolate chips"
+        ],
+        "price": 18.86,
+        "calories": 777,
+        "prep_time": "6-29 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "shellfish",
+            "gluten"
+        ],
+        "popularity_score": 57,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a dragoncrispyfresh dessert"
+    },
+    {
+        "product_id": "FF037",
+        "name": "ClassicFusionCrispy Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "tortilla",
+            "gochujang sauce",
+            "almond milk",
+            "tomato"
+        ],
+        "price": 18.48,
+        "calories": 539,
+        "prep_time": "9-30 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "soy"
+        ],
+        "popularity_score": 56,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a classicfusioncrispy dessert"
+    },
+    {
+        "product_id": "FF038",
+        "name": "SweetBurgerDragon Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "tortilla",
+            "brioche bun",
+            "jalapenos",
+            "coffee",
+            "beef patty"
+        ],
+        "price": 19.1,
+        "calories": 677,
+        "prep_time": "6-25 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "classic"
+        ],
+        "allergens": [
+            "soy",
+            "shellfish"
+        ],
+        "popularity_score": 75,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "image of a sweetburgerdragon sides & appetizer"
+    },
+    {
+        "product_id": "FF039",
+        "name": "PizzaBurgerSavory Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "chocolate chips",
+            "onion rings",
+            "tortilla"
+        ],
+        "price": 12.29,
+        "calories": 508,
+        "prep_time": "14-30 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 91,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a pizzaburgersavory limited time special"
+    },
+    {
+        "product_id": "FF040",
+        "name": "FreshClassicSweet Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "almond milk",
+            "potato fries",
+            "jalapenos"
+        ],
+        "price": 15.84,
+        "calories": 329,
+        "prep_time": "13-21 mins",
+        "dietary_tags": [
+            "spicy",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "eggs",
+            "dairy"
+        ],
+        "popularity_score": 90,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a freshclassicsweet burger"
+    },
+    {
+        "product_id": "FF041",
+        "name": "CrispyTacoClassic Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "caramel sauce",
+            "almond milk",
+            "onion rings"
+        ],
+        "price": 14.09,
+        "calories": 488,
+        "prep_time": "12-15 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 54,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a crispytacoclassic breakfast item"
+    },
+    {
+        "product_id": "FF042",
+        "name": "TacoSavoryPizza Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "potato fries",
+            "cheese",
+            "chicken breast",
+            "caramel sauce"
+        ],
+        "price": 14.75,
+        "calories": 744,
+        "prep_time": "13-15 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 81,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "image of a tacosavorypizza breakfast item"
+    },
+    {
+        "product_id": "FF043",
+        "name": "DragonFusionSavory Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "tomato",
+            "black beans",
+            "lettuce",
+            "potato fries",
+            "ice cream"
+        ],
+        "price": 9.94,
+        "calories": 254,
+        "prep_time": "9-16 mins",
+        "dietary_tags": [
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "classic"
+        ],
+        "allergens": [
+            "gluten",
+            "eggs"
+        ],
+        "popularity_score": 76,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a dragonfusionsavory limited time special"
+    },
+    {
+        "product_id": "FF044",
+        "name": "SweetDragonFusion Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "cheese",
+            "kimchi",
+            "vanilla",
+            "beef patty"
+        ],
+        "price": 8.23,
+        "calories": 743,
+        "prep_time": "10-26 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [],
+        "popularity_score": 83,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a sweetdragonfusion dessert"
+    },
+    {
+        "product_id": "FF045",
+        "name": "SavoryPizzaCrispy Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "tortilla",
+            "potato fries",
+            "beef patty",
+            "brioche bun",
+            "chicken breast"
+        ],
+        "price": 14.26,
+        "calories": 331,
+        "prep_time": "13-20 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "classic",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a savorypizzacrispy breakfast item"
+    },
+    {
+        "product_id": "FF046",
+        "name": "DragonClassicSweet Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "beef patty",
+            "black beans",
+            "gochujang sauce"
+        ],
+        "price": 6.27,
+        "calories": 712,
+        "prep_time": "11-20 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "classic",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "shellfish"
+        ],
+        "popularity_score": 96,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "image of a dragonclassicsweet salads & healthy option"
+    },
+    {
+        "product_id": "FF047",
+        "name": "TacoClassicFusion Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chicken breast",
+            "black beans",
+            "potato fries",
+            "ice cream"
+        ],
+        "price": 13.88,
+        "calories": 693,
+        "prep_time": "10-28 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 51,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "image of a tacoclassicfusion limited time special"
+    },
+    {
+        "product_id": "FF048",
+        "name": "BurgerCrispyTaco Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tomato",
+            "caramel sauce",
+            "ice cream"
+        ],
+        "price": 9.46,
+        "calories": 292,
+        "prep_time": "8-25 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [],
+        "popularity_score": 84,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a burgercrispytaco burger"
+    },
+    {
+        "product_id": "FF049",
+        "name": "FusionSweetClassic Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "potato fries",
+            "brioche bun",
+            "caramel sauce"
+        ],
+        "price": 12.73,
+        "calories": 520,
+        "prep_time": "15-21 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 87,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "image of a fusionsweetclassic tacos & wrap"
+    },
+    {
+        "product_id": "FF050",
+        "name": "FreshClassicBurger Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "kimchi",
+            "vanilla",
+            "potato fries",
+            "coffee",
+            "jalapenos"
+        ],
+        "price": 17.33,
+        "calories": 660,
+        "prep_time": "7-29 mins",
+        "dietary_tags": [
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 52,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "image of a freshclassicburger sides & appetizer"
+    },
+    {
+        "product_id": "FF051",
+        "name": "SweetSpicyTaco Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "chicken breast",
+            "black beans",
+            "caramel sauce",
+            "brioche bun"
+        ],
+        "price": 15.43,
+        "calories": 356,
+        "prep_time": "5-20 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 81,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a sweetspicytaco fried chicke"
+    },
+    {
+        "product_id": "FF052",
+        "name": "FusionBurgerFresh Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chicken breast",
+            "onion rings",
+            "coffee"
+        ],
+        "price": 15.34,
+        "calories": 386,
+        "prep_time": "7-17 mins",
+        "dietary_tags": [
+            "vegan",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "shellfish"
+        ],
+        "popularity_score": 58,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "image of a fusionburgerfresh tacos & wrap"
+    },
+    {
+        "product_id": "FF053",
+        "name": "TacoCrispySavory Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "onion rings",
+            "cheese",
+            "tortilla"
+        ],
+        "price": 10.76,
+        "calories": 713,
+        "prep_time": "9-21 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "image of a tacocrispysavory salads & healthy option"
+    },
+    {
+        "product_id": "FF054",
+        "name": "BurgerSavoryPizza Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "beef patty",
+            "kimchi",
+            "onion rings",
+            "coffee",
+            "vanilla"
+        ],
+        "price": 10.99,
+        "calories": 801,
+        "prep_time": "7-15 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 62,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "image of a burgersavorypizza pizz"
+    },
+    {
+        "product_id": "FF055",
+        "name": "ClassicDragonCrispy Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "beef patty",
+            "potato fries",
+            "brioche bun"
+        ],
+        "price": 12.82,
+        "calories": 788,
+        "prep_time": "14-18 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "classic"
+        ],
+        "allergens": [],
+        "popularity_score": 73,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "image of a classicdragoncrispy pizz"
+    },
+    {
+        "product_id": "FF056",
+        "name": "DragonSweetFusion Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "cheese",
+            "jalapenos",
+            "vanilla",
+            "tomato",
+            "caramel sauce",
+            "ice cream"
+        ],
+        "price": 9.26,
+        "calories": 557,
+        "prep_time": "14-19 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "eggs",
+            "shellfish"
+        ],
+        "popularity_score": 86,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a dragonsweetfusion beverage"
+    },
+    {
+        "product_id": "FF057",
+        "name": "SpicyDragonCrispy Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "lettuce",
+            "chocolate chips"
+        ],
+        "price": 6.38,
+        "calories": 260,
+        "prep_time": "9-26 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 71,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a spicydragoncrispy fried chicke"
+    },
+    {
+        "product_id": "FF058",
+        "name": "SavoryCrispyFusion Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "kimchi",
+            "ice cream",
+            "tortilla",
+            "vanilla"
+        ],
+        "price": 5.59,
+        "calories": 381,
+        "prep_time": "9-27 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 77,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "image of a savorycrispyfusion fried chicke"
+    },
+    {
+        "product_id": "FF059",
+        "name": "FusionSavoryClassic Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "gochujang sauce",
+            "beef patty",
+            "coffee",
+            "potato fries",
+            "brioche bun",
+            "cheese"
+        ],
+        "price": 5.3,
+        "calories": 716,
+        "prep_time": "5-25 mins",
+        "dietary_tags": [
+            "spicy",
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "shellfish",
+            "dairy"
+        ],
+        "popularity_score": 80,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a fusionsavoryclassic dessert"
+    },
+    {
+        "product_id": "FF060",
+        "name": "FusionCrispySweet Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "kimchi",
+            "beef patty",
+            "tomato"
+        ],
+        "price": 7.32,
+        "calories": 835,
+        "prep_time": "5-24 mins",
+        "dietary_tags": [
+            "vegan",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [],
+        "popularity_score": 61,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "image of a fusioncrispysweet beverage"
+    },
+    {
+        "product_id": "FF061",
+        "name": "DragonSweetBurger Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "kimchi",
+            "potato fries",
+            "lettuce",
+            "coffee",
+            "almond milk"
+        ],
+        "price": 14.42,
+        "calories": 643,
+        "prep_time": "8-24 mins",
+        "dietary_tags": [
+            "spicy",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 50,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "image of a dragonsweetburger pizz"
+    },
+    {
+        "product_id": "FF062",
+        "name": "TacoPizzaBurger Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "coffee",
+            "jalapenos",
+            "potato fries"
+        ],
+        "price": 19.0,
+        "calories": 233,
+        "prep_time": "14-19 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "classic"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 57,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "image of a tacopizzaburger burger"
+    },
+    {
+        "product_id": "FF063",
+        "name": "BurgerSavoryPizza Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "gochujang sauce",
+            "caramel sauce",
+            "tomato"
+        ],
+        "price": 12.1,
+        "calories": 670,
+        "prep_time": "9-26 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [
+            "dairy",
+            "shellfish"
+        ],
+        "popularity_score": 91,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "image of a burgersavorypizza pizz"
+    },
+    {
+        "product_id": "FF064",
+        "name": "PizzaSavoryTaco Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "tortilla",
+            "brioche bun",
+            "jalapenos",
+            "chocolate chips"
+        ],
+        "price": 16.24,
+        "calories": 881,
+        "prep_time": "5-26 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 71,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "image of a pizzasavorytaco dessert"
+    },
+    {
+        "product_id": "FF065",
+        "name": "FusionBurgerSweet Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "cheese",
+            "jalapenos",
+            "vanilla",
+            "potato fries"
+        ],
+        "price": 7.55,
+        "calories": 822,
+        "prep_time": "12-24 mins",
+        "dietary_tags": [
+            "vegan",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 95,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "image of a fusionburgersweet breakfast item"
+    },
+    {
+        "product_id": "FF066",
+        "name": "SavoryBurgerDragon Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "tomato",
+            "onion rings"
+        ],
+        "price": 8.95,
+        "calories": 764,
+        "prep_time": "6-18 mins",
+        "dietary_tags": [
+            "gluten_free",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 86,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a savoryburgerdragon pizz"
+    },
+    {
+        "product_id": "FF067",
+        "name": "SweetDragonTaco Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "ice cream",
+            "black beans"
+        ],
+        "price": 16.89,
+        "calories": 699,
+        "prep_time": "10-18 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 93,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a sweetdragontaco breakfast item"
+    },
+    {
+        "product_id": "FF068",
+        "name": "CrispySavoryClassic Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "chicken breast",
+            "vanilla"
+        ],
+        "price": 9.9,
+        "calories": 415,
+        "prep_time": "10-15 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "shellfish"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a crispysavoryclassic burger"
+    },
+    {
+        "product_id": "FF069",
+        "name": "SavoryFreshCrispy Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chicken breast",
+            "almond milk",
+            "kimchi",
+            "beef patty",
+            "lettuce"
+        ],
+        "price": 11.02,
+        "calories": 792,
+        "prep_time": "8-27 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy"
+        ],
+        "popularity_score": 55,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a savoryfreshcrispy burger"
+    },
+    {
+        "product_id": "FF070",
+        "name": "SpicyCrispySavory Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "cheese",
+            "potato fries",
+            "coffee"
+        ],
+        "price": 19.26,
+        "calories": 322,
+        "prep_time": "15-26 mins",
+        "dietary_tags": [
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 63,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a spicycrispysavory salads & healthy option"
+    },
+    {
+        "product_id": "FF071",
+        "name": "SavoryFreshPizza Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "onion rings",
+            "potato fries",
+            "caramel sauce",
+            "vanilla",
+            "tomato"
+        ],
+        "price": 16.91,
+        "calories": 679,
+        "prep_time": "6-15 mins",
+        "dietary_tags": [
+            "vegan",
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 70,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a savoryfreshpizza limited time special"
+    },
+    {
+        "product_id": "FF072",
+        "name": "FreshFusionTaco Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "cheese",
+            "beef patty",
+            "vanilla",
+            "ice cream",
+            "tomato"
+        ],
+        "price": 13.52,
+        "calories": 290,
+        "prep_time": "6-25 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [
+            "shellfish",
+            "dairy"
+        ],
+        "popularity_score": 61,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "image of a freshfusiontaco breakfast item"
+    },
+    {
+        "product_id": "FF073",
+        "name": "SweetSpicyCrispy Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "black beans",
+            "onion rings",
+            "brioche bun",
+            "cheese",
+            "almond milk"
+        ],
+        "price": 8.52,
+        "calories": 539,
+        "prep_time": "9-22 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "classic",
+            "adventurous"
+        ],
+        "allergens": [],
+        "popularity_score": 65,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "image of a sweetspicycrispy salads & healthy option"
+    },
+    {
+        "product_id": "FF074",
+        "name": "ClassicFusionPizza Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "beef patty",
+            "tomato",
+            "chocolate chips"
+        ],
+        "price": 6.45,
+        "calories": 424,
+        "prep_time": "8-30 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 68,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "image of a classicfusionpizza dessert"
+    },
+    {
+        "product_id": "FF075",
+        "name": "BurgerSweetTaco Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "cheese",
+            "potato fries",
+            "vanilla",
+            "coffee",
+            "ice cream"
+        ],
+        "price": 6.04,
+        "calories": 493,
+        "prep_time": "13-26 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "shellfish"
+        ],
+        "popularity_score": 76,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "image of a burgersweettaco dessert"
+    },
+    {
+        "product_id": "FF076",
+        "name": "ClassicFusionSavory Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "tomato",
+            "kimchi",
+            "caramel sauce",
+            "beef patty"
+        ],
+        "price": 14.42,
+        "calories": 711,
+        "prep_time": "12-26 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [
+            "soy"
+        ],
+        "popularity_score": 67,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a classicfusionsavory pizz"
+    },
+    {
+        "product_id": "FF077",
+        "name": "TacoSpicyClassic Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "tortilla",
+            "brioche bun"
+        ],
+        "price": 8.8,
+        "calories": 373,
+        "prep_time": "10-27 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 98,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a tacospicyclassic breakfast item"
+    },
+    {
+        "product_id": "FF078",
+        "name": "SpicyClassicDragon Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "chicken breast",
+            "brioche bun"
+        ],
+        "price": 5.94,
+        "calories": 614,
+        "prep_time": "12-15 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [
+            "dairy"
+        ],
+        "popularity_score": 50,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a spicyclassicdragon dessert"
+    },
+    {
+        "product_id": "FF079",
+        "name": "FusionTacoPizza Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "potato fries",
+            "brioche bun",
+            "kimchi",
+            "almond milk",
+            "tomato"
+        ],
+        "price": 13.91,
+        "calories": 464,
+        "prep_time": "11-18 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [],
+        "popularity_score": 83,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "image of a fusiontacopizza sides & appetizer"
+    },
+    {
+        "product_id": "FF080",
+        "name": "SpicyCrispyDragon Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "lettuce",
+            "black beans",
+            "gochujang sauce",
+            "vanilla",
+            "jalapenos"
+        ],
+        "price": 11.78,
+        "calories": 394,
+        "prep_time": "10-27 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 82,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a spicycrispydragon salads & healthy option"
+    },
+    {
+        "product_id": "FF081",
+        "name": "BurgerTacoSpicy Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "gochujang sauce",
+            "vanilla",
+            "black beans",
+            "kimchi",
+            "potato fries"
+        ],
+        "price": 14.51,
+        "calories": 894,
+        "prep_time": "5-16 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "shellfish"
+        ],
+        "popularity_score": 67,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a burgertacospicy pizz"
+    },
+    {
+        "product_id": "FF082",
+        "name": "FusionClassicFresh Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "brioche bun",
+            "vanilla"
+        ],
+        "price": 6.99,
+        "calories": 444,
+        "prep_time": "15-25 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 59,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "image of a fusionclassicfresh sides & appetizer"
+    },
+    {
+        "product_id": "FF083",
+        "name": "FusionSpicyClassic Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "caramel sauce",
+            "black beans",
+            "chicken breast",
+            "brioche bun",
+            "ice cream",
+            "gochujang sauce"
+        ],
+        "price": 17.66,
+        "calories": 585,
+        "prep_time": "12-17 mins",
+        "dietary_tags": [
+            "vegetarian"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [],
+        "popularity_score": 57,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a fusionspicyclassic burger"
+    },
+    {
+        "product_id": "FF084",
+        "name": "ClassicSweetFusion Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "Delicious fried chicken with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "chocolate chips",
+            "gochujang sauce",
+            "onion rings"
+        ],
+        "price": 17.44,
+        "calories": 375,
+        "prep_time": "12-26 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [],
+        "popularity_score": 51,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a classicsweetfusion fried chicke"
+    },
+    {
+        "product_id": "FF085",
+        "name": "SpicySweetSavory Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chicken breast",
+            "tomato",
+            "cheese",
+            "lettuce",
+            "gochujang sauce"
+        ],
+        "price": 14.27,
+        "calories": 338,
+        "prep_time": "15-25 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [
+            "eggs",
+            "nuts"
+        ],
+        "popularity_score": 97,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 5,
+        "image_prompt": "image of a spicysweetsavory beverage"
+    },
+    {
+        "product_id": "FF086",
+        "name": "ClassicSavoryBurger Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "Delicious salads & healthy options with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "gochujang sauce",
+            "cheese",
+            "onion rings",
+            "almond milk",
+            "beef patty"
+        ],
+        "price": 6.39,
+        "calories": 324,
+        "prep_time": "15-23 mins",
+        "dietary_tags": [
+            "dairy_free",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "shellfish"
+        ],
+        "popularity_score": 77,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "image of a classicsavoryburger salads & healthy option"
+    },
+    {
+        "product_id": "FF087",
+        "name": "ClassicPizzaFresh Pizz",
+        "category": "Pizza",
+        "description": "Delicious pizza with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tortilla",
+            "gochujang sauce",
+            "jalapenos",
+            "chocolate chips"
+        ],
+        "price": 11.91,
+        "calories": 469,
+        "prep_time": "15-26 mins",
+        "dietary_tags": [
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "healthy"
+        ],
+        "allergens": [],
+        "popularity_score": 55,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a classicpizzafresh pizz"
+    },
+    {
+        "product_id": "FF088",
+        "name": "SweetFreshClassic Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "ice cream",
+            "caramel sauce",
+            "almond milk"
+        ],
+        "price": 10.35,
+        "calories": 623,
+        "prep_time": "15-25 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "classic",
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 84,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "image of a sweetfreshclassic beverage"
+    },
+    {
+        "product_id": "FF089",
+        "name": "BurgerPizzaClassic Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "Delicious sides & appetizers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "beef patty",
+            "chocolate chips",
+            "chicken breast"
+        ],
+        "price": 11.99,
+        "calories": 523,
+        "prep_time": "8-26 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "shellfish"
+        ],
+        "popularity_score": 55,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "image of a burgerpizzaclassic sides & appetizer"
+    },
+    {
+        "product_id": "FF090",
+        "name": "ClassicCrispyBurger Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chicken breast",
+            "almond milk",
+            "potato fries",
+            "beef patty"
+        ],
+        "price": 7.91,
+        "calories": 711,
+        "prep_time": "8-17 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [],
+        "popularity_score": 57,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "image of a classiccrispyburger limited time special"
+    },
+    {
+        "product_id": "FF091",
+        "name": "BurgerSpicyCrispy Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "Delicious limited time specials with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "potato fries",
+            "brioche bun",
+            "kimchi",
+            "chicken breast",
+            "gochujang sauce",
+            "jalapenos"
+        ],
+        "price": 7.55,
+        "calories": 838,
+        "prep_time": "7-22 mins",
+        "dietary_tags": [
+            "nuts_free"
+        ],
+        "mood_tags": [
+            "comfort"
+        ],
+        "allergens": [
+            "dairy"
+        ],
+        "popularity_score": 71,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "image of a burgerspicycrispy limited time special"
+    },
+    {
+        "product_id": "FF092",
+        "name": "CrispySweetBurger Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "almond milk",
+            "cheese",
+            "brioche bun",
+            "caramel sauce",
+            "lettuce"
+        ],
+        "price": 16.08,
+        "calories": 828,
+        "prep_time": "15-16 mins",
+        "dietary_tags": [
+            "dairy_free"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "classic"
+        ],
+        "allergens": [
+            "eggs"
+        ],
+        "popularity_score": 61,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "image of a crispysweetburger tacos & wrap"
+    },
+    {
+        "product_id": "FF093",
+        "name": "BurgerCrispyTaco Dessert",
+        "category": "Desserts",
+        "description": "Delicious desserts with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "onion rings",
+            "brioche bun",
+            "cheese",
+            "potato fries",
+            "kimchi"
+        ],
+        "price": 17.59,
+        "calories": 757,
+        "prep_time": "7-23 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "spicy"
+        ],
+        "mood_tags": [
+            "classic",
+            "comfort"
+        ],
+        "allergens": [
+            "shellfish"
+        ],
+        "popularity_score": 65,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "image of a burgercrispytaco dessert"
+    },
+    {
+        "product_id": "FF094",
+        "name": "FreshSpicyBurger Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "jalapenos",
+            "black beans",
+            "caramel sauce"
+        ],
+        "price": 8.96,
+        "calories": 622,
+        "prep_time": "9-16 mins",
+        "dietary_tags": [
+            "nuts_free",
+            "gluten_free"
+        ],
+        "mood_tags": [
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 60,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "image of a freshspicyburger tacos & wrap"
+    },
+    {
+        "product_id": "FF095",
+        "name": "SavoryTacoClassic Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "black beans",
+            "onion rings",
+            "coffee",
+            "ice cream",
+            "caramel sauce"
+        ],
+        "price": 15.73,
+        "calories": 830,
+        "prep_time": "5-20 mins",
+        "dietary_tags": [
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 76,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a savorytacoclassic beverage"
+    },
+    {
+        "product_id": "FF096",
+        "name": "CrispyTacoSavory Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "chocolate chips",
+            "almond milk",
+            "tortilla",
+            "gochujang sauce",
+            "ice cream",
+            "cheese"
+        ],
+        "price": 15.16,
+        "calories": 694,
+        "prep_time": "6-29 mins",
+        "dietary_tags": [
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts"
+        ],
+        "popularity_score": 56,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a crispytacosavory burger"
+    },
+    {
+        "product_id": "FF097",
+        "name": "SweetFreshDragon Burger",
+        "category": "Burgers",
+        "description": "Delicious burgers with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "kimchi",
+            "gochujang sauce",
+            "brioche bun",
+            "ice cream",
+            "coffee"
+        ],
+        "price": 10.41,
+        "calories": 632,
+        "prep_time": "7-27 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "classic",
+            "indulgent"
+        ],
+        "allergens": [
+            "shellfish",
+            "soy"
+        ],
+        "popularity_score": 97,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "image of a sweetfreshdragon burger"
+    },
+    {
+        "product_id": "FF098",
+        "name": "SweetCrispyTaco Beverage",
+        "category": "Beverages",
+        "description": "Delicious beverages with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "cheese",
+            "kimchi",
+            "lettuce",
+            "gochujang sauce",
+            "onion rings"
+        ],
+        "price": 10.68,
+        "calories": 848,
+        "prep_time": "15-25 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [],
+        "popularity_score": 87,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "image of a sweetcrispytaco beverage"
+    },
+    {
+        "product_id": "FF099",
+        "name": "ClassicPizzaTaco Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "Delicious tacos & wraps with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "tomato",
+            "beef patty",
+            "chicken breast",
+            "potato fries"
+        ],
+        "price": 17.29,
+        "calories": 416,
+        "prep_time": "9-16 mins",
+        "dietary_tags": [
+            "vegetarian",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy"
+        ],
+        "popularity_score": 52,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "image of a classicpizzataco tacos & wrap"
+    },
+    {
+        "product_id": "FF100",
+        "name": "PizzaBurgerDragon Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "Delicious breakfast items with unique flavors and fresh ingredients.",
+        "ingredients": [
+            "vanilla",
+            "tortilla",
+            "chicken breast"
+        ],
+        "price": 15.06,
+        "calories": 893,
+        "prep_time": "13-21 mins",
+        "dietary_tags": [
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "classic"
+        ],
+        "allergens": [
+            "dairy"
+        ],
+        "popularity_score": 99,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "image of a pizzaburgerdragon breakfast item"
+    }
+]
